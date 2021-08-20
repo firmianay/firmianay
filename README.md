@@ -7,5 +7,5 @@
 读者可免费加入知识星球：
 
 <div align="center">
-	<img src="./zsxq.png" alt="zsxq" width="400">
+	<img src="./zsxq.png" alt="zsxq" width="300">
 </div>
