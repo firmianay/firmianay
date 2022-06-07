@@ -3,8 +3,9 @@
 - 《CTF竞赛权威指南(Pwn篇)》[购买链接](http://product.dangdang.com/29166115.html)
 - 《Ghidra权威指南》年底即将出版！
 
-欢迎关注或加入[VulnTotal安全团队](https://github.com/VulnTotal-Team)（交流QQ群 808542982、217863340）：
+欢迎关注或加入[VulnTotal安全团队](https://github.com/VulnTotal-Team)（交流QQ群 808542982、217863340。微信群请加我微信，备注“加群”）：
 
 <table><tr>
-<td><img src=./gzh.jpg width="150"></td>
+<td><img src=./gzh.jpg width="130"></td>
+<td><img src=./wechat.jpg width="130"></td>
 </tr></table>
