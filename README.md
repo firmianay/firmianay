@@ -5,8 +5,8 @@
 ==============================================
 
 - 知识星球：[【VulnTotal安全团队】](https://public.zsxq.com/groups/51122185281484.html)
-- [《CTF竞赛权威指南(Pwn篇)》](http://product.dangdang.com/29166115.html)（第二版在星球持续更新）
-- 《Ghidra权威指南》已交稿，年底出版！
+- [《CTF竞赛权威指南(Pwn篇)》](https://github.com/firmianay/CTF-All-In-One)（第二版在星球持续更新）
+- [《Ghidra权威指南》](https://github.com/firmianay/ghidra-book)已交稿，年底出版！
 
 ==============================================
 
