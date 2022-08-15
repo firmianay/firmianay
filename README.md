@@ -4,9 +4,9 @@
 
 ==============================================
 
-- 淘宝：[【Coder码农集市】](https://shop438728892.taobao.com/)
+- 淘宝：[【码农小镇】](https://shop438728892.taobao.com/)
 - 知识星球：[【VulnTotal安全圈】](https://public.zsxq.com/groups/51122185281484.html)
-- [《CTF竞赛权威指南(Pwn篇)》](https://item.taobao.com/item.htm?id=678074921870)签名版
+- [《CTF竞赛权威指南(Pwn篇)》](https://github.com/firmianay/ctf-book)
 - [《Ghidra权威指南》](https://github.com/firmianay/ghidra-book)年底即将出版！
 
 ==============================================
