@@ -10,7 +10,7 @@
 
 ==============================================
 
-- 欢迎关注或加入[VulnTotal安全团队](https://github.com/VulnTotal-Team)！
+- 欢迎关注[VulnTotal安全](https://github.com/VulnTotal-Team)！
 
 <table><tr>
 <td><img src=./gzh.jpg width="120"></td>
